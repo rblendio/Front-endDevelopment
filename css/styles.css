@@ -193,6 +193,9 @@ svg {
 form {
     top: -22px;
 }
+.container {
+  height: auto;
+}
 }
 /* iPads */
 @media only screen 
@@ -206,5 +209,8 @@ and (max-device-width : 1024px) {
 }
 .eclipse-bottom {
   width: 7rem;
+}
+.container {
+  height: auto;
 }
 }
