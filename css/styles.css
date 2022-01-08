@@ -60,7 +60,7 @@ svg {
 }
 form {
     position: relative;
-    width: 26%;
+    width: 350px;
     height: 450px;
     display: flex;
     flex-direction: column;
