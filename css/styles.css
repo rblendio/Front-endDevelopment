@@ -195,18 +195,24 @@ svg {
 form {
     top: -22px;
 }
+.container {
+    height: auto;
+}
 }
 /* iPads */
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) {
 .google-login, .submit  {
-	width: 19.5rem;
+    width: 19.5rem;
 }
 .input-box {
     width: 16.4rem;
 }
 .eclipse-bottom {
-  width: 7rem;
+    width: 7rem;
+}
+.container {
+    height: auto;
 }
 }
